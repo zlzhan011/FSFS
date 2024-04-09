@@ -1,2 +1,2 @@
-# FSFS
+# SFCF
 Fair Streaming Feature Selection
