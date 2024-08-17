@@ -1,2 +1,2 @@
 # SFCF
-Streaming Feature Selection with Causal Fairness
+Fairness-Aware Streaming Feature Selection with Causal Graphs
