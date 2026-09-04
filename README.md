@@ -45,4 +45,3 @@ potential sources of unfairness in data-driven decision systems.
 "Fairness-Aware Streaming Feature Selection with Causal Graphs,"
 IEEE International Conference on Systems, Man, and Cybernetics, 2024.
 
-[完整 citation]
