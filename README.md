@@ -9,7 +9,7 @@ This repository contains the research code and supplementary material for:
 
 The paper introduces **Streaming Feature Selection with Causal Fairness (SFCF)**, an online feature-selection framework that jointly considers predictive accuracy, group fairness, feature-set sparsity, and computational efficiency when features arrive sequentially.
 
-> **Naming note.** The repository is named `FSFS`. The paper uses the method name **SFCF**. Some experiment scripts and output labels retain the historical names `FS^2-RI`, `FS^2-AD1`, and `FS^^2-AD2`; these correspond to `SFCF-RI`, `SFCF-AD1`, and `SFCF-AD2`, respectively.
+> **Naming note.** The repository is named `FSFS`. The paper uses the method name SFCF. Some experiment scripts and output labels retain the historical names `FS²-RI`, `FS²-AD1`, and `FS²-AD2`; these correspond to `SFCF-RI`, `SFCF-AD1`, and `SFCF-AD2`, respectively.
 
 ---
 
